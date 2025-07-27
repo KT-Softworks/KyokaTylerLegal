@@ -1,53 +1,41 @@
-# Terms and Conditions for Simple Countdown (Free)
+**Privacy Policy for SimpleCountdown**
 
-**Last updated:** July 15, 2025
+**Last Updated:** July 27, 2025
 
-Please read these terms and conditions ("Terms") carefully before using the Simple Countdown (Free) mobile application (the "App") operated by **[Tyler Tirapelle]** ("us", "we", or "our").
+This Privacy Policy describes how SimpleCountdown ("the App") operates with regard to your privacy.
 
-Your access to and use of the App is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the App. By accessing or using the App, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access the App.
+**1. No Collection of Personal Data**
 
-***
+SimpleCountdown is designed with your privacy as a top priority. The App does **not** collect, store, transmit, or share any personal data from its users. This includes, but is not limited to:
 
-### In-App Purchases and Donations
+* Your name, email address, or any other identifying information.
+* Information about your device or location.
+* Data related to your usage of the App.
+* Any data entered into the App, such as event titles or dates. All event data is stored locally on your device.
 
-The App includes the option to make voluntary monetary donations or tips ("In-App Purchases") to support the developer. These purchases are processed through the Apple App Store, from which you originally downloaded the application. All such transactions are final and non-refundable.
+**2. Local Data Storage**
 
-***
+All data you create within the SimpleCountdown app, such as your countdown events, titles, dates, and customization preferences, is stored **locally on your device**. This data is not transmitted to us or any third parties.
 
-### User-Generated Content and Privacy
+**3. iCloud Sync (Optional)**
 
-Our App allows you to select images from your device's photo library to use as backgrounds for your countdowns ("User Content"). **This content is stored locally on your device and is not uploaded to our servers or seen by us.**
+If you choose to enable iCloud Sync for SimpleCountdown through your device's operating system settings, your event data will be synchronized across your personal devices via Apple's iCloud service. This synchronization is handled directly by Apple, and we do not have access to your iCloud data. Your use of iCloud is subject to Apple's Privacy Policy.
 
-Because your content is stored only on your device, you are solely responsible for it. You must ensure you have the necessary rights and permissions for any images you choose to use. We have no access to, and take no responsibility for, your User Content.
+**4. No Third-Party Access**
 
-***
+Because SimpleCountdown does not collect any personal data, there is no personal data to be shared with or sold to third parties.
 
-### Intellectual Property
+**5. Children's Privacy**
 
-The App and its original content (excluding User Content), features, and functionality are and will remain the exclusive property of **[Tyler Tirapelle]**.
+SimpleCountdown does not collect any personal information from anyone, including children.
 
-***
+**6. Changes to This Privacy Policy**
 
-### Limitation of Liability & Disclaimer
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on our website. You are advised to review this Privacy Policy periodically for any changes.
 
-The App is provided to you "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, we expressly disclaim all warranties, whether express, implied, statutory, or otherwise.
+**7. Contact Us**
 
-In no event shall we be liable for any special, incidental, indirect, or consequential damages whatsoever, including, but not limited to, damages for loss of data or other information (such as the accidental deletion of your countdown events), arising out of or in any way related to the use of or inability to use the App.
+If you have any questions about this Privacy Policy, please contact me at:
 
-***
-
-### Changes to These Terms
-
-We reserve the right, at our sole discretion, to modify or replace these Terms at any time. We will notify you of any changes by posting the new Terms and Conditions within the App.
-
-***
-
-### Governing Law
-
-The laws of **[Japan]**, excluding its conflicts of law rules, shall govern this Terms and Your use of the Application.
-
-***
-
-### Contact Us
-
-If you have any questions about these Terms, please contact us at: **kyokatylerdev@gmail.com**
+Tyler Tirapelle
+kyokatylerdev@gmail.com
